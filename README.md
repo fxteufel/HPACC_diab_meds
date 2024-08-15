@@ -18,7 +18,8 @@ No software beyond Stata needs to be installed for running the code. The code ca
 
 ## Contact
 
-Felix Teufel, Emory University, felixteufel@emory.edu
+I am Felix Teufel, PhD Student at Emory University. You can reach me at:
+felixteufel@emory.edu
 
 ## License
 
