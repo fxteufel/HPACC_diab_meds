@@ -9,10 +9,10 @@ This code has been written in Stata SE version 15.1 for macOS Ventura 13.0.1 and
 ## Content
 
 The following do-files can be found in the 'code' folder of this repository:
-- HPACC_dia_meds_prep.do: Cleaning the data and generating variables
-- HPACC_dia_meds_subset.do: Sub-setting the data and re-scaling survey weights
-- HPACC_dia_meds_analysis.do: Creating main tables and figures
-- HPACC_dia_meds_appendix.do: Creating supplementary tables and figures
+- _HPACC_dia_meds_prep.do_: Cleaning the data and generating variables
+- _HPACC_dia_meds_subset.do_: Sub-setting the data and re-scaling survey weights
+- _HPACC_dia_meds_analysis.do_: Creating main tables and figures
+- _HPACC_dia_meds_appendix.do_: Creating supplementary tables and figures
   
 ## Installation, demo and instructions
 
