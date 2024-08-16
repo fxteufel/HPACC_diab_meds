@@ -16,7 +16,7 @@ The following do-files can be found in the 'code' folder of this repository:
   
 ## Installation, demo and instructions
 
-No software beyond Stata needs to be installed for running the code. The 2 analytic do-files ("HPACC_dia_meds_analysis.do" and "HPACC_dia_meds_appendix.do") can be run on a small simulated dataset that is provided in the 'data' folder of this repository. The generated output will show similar graphs as in the paper, though estimates will likely differ in the simulated dataset. The expected run time of the two do-files on a desktop computer with 16GB RAM is around XX-XX minutes.
+No software beyond Stata needs to be installed for running the code. The 2 analytic do-files ("HPACC_dia_meds_analysis.do" and "HPACC_dia_meds_appendix.do") can be run on a small simulated dataset that is provided in the 'data' folder of this repository. The generated output will show similar graphs as in the paper, though estimates will likely differ in the simulated dataset. The expected run time of the two do-files on a desktop computer with 16GB RAM is around 5-10 minutes.
 
 ## Contact
 
