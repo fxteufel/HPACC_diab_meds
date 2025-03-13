@@ -1,4 +1,4 @@
-# Glucose-Lowering Medication Use for Diabetes: National Evidence from 62 Low- and Middle-Income Countries
+# National Evidence on Glucose-Lowering Medication Use for Diabetes from 62 Low- and Middle-Income Countries
 
 This repository contains replication code for Teufel, Felix et al. "Glucose-Lowering Medication Use for Diabetes: National Evidence from 62 Low- and Middle-Income Countries", which is currently under review at Nature Communications. 
 
